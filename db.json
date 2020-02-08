@@ -1,0 +1,15 @@
+{
+  "login-guest": {
+    "uid": null
+  },
+  "loginManager": {
+    "email": "goumas@aueb.gr",
+    "password": "1234"
+  },
+  "stay-info": {
+    "hotel": "Apollon",
+    "room": "103",
+    "start": "0",
+    "end": "1"
+  }
+}
